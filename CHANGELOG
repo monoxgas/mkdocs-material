@@ -1,3 +1,33 @@
+mkdocs-material-9.6.4 (2025-02-12)
+
+  * Fixed #7985: Blog content sometimes not stretching to full width
+  * Fixed #7978: Navigation rendering bug in Safari 18.3
+
+mkdocs-material-9.6.3 (2025-02-07)
+
+  * Fixed rendering of arrow heads in Mermaid.js class diagrams
+  * Fixed #7960: Tags plugin crashes on numeric metadata titles
+
+mkdocs-material-9.6.2 (2025-02-03)
+
+  * Fixed #7955: Excessively long words don't break on narrow screens
+  * Fixed #7947: Scope setting interferes with outdated version banner
+
+mkdocs-material-9.6.1 (2025-01-31)
+
+  * Fixed #7943: Tags plugin crashing due to merge error
+
+mkdocs-material-9.6.0 (2025-01-31)
+
+  * Added meta plugin
+  * Rewrite of the tags plugin
+  * Added support for allow lists in tags plugin
+  * Added support for and custom sorting in tags plugin
+  * Added support for related links in blog plugin
+  * Added support for custom index pages in blog plugin
+  * Added support for navigation subtitles
+  * Fixed #7924: Anchors might require two clicks when using instant navigation
+
 mkdocs-material-9.5.50 (2025-01-18)
 
   * Fixed #7913: Social plugin renders attribute lists in page title
